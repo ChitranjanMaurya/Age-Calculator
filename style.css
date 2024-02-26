@@ -73,6 +73,5 @@
   }
   
   footer a {
-    text-decoration: none;
-    color: grey;
+    text-decoration-color: aqua;
   }
